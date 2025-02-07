@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm lotus64</h1>
 
 <p align="center">
-  <img src="https://github.com/lotus64.png" alt="lotus64 avatar" width="120" height="120" style="border-radius: 50%;" />
+  <img src="https://github.com/lotus64yt.png" alt="lotus64 avatar" width="120" height="120" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -49,10 +49,10 @@
 ### 📊 **Stats & Activity**
 
 #### **GitHub Stats**
-![lotus64's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lotus64&show_icons=true&theme=radical&hide_border=true)
+![lotus64's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lotus64yt&show_icons=true&theme=radical&hide_border=true)
 
 #### **Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotus64&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotus64yt&layout=compact&theme=radical&hide_border=true)
 
 #### **WakaTime Coding Stats**
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=lotus64&theme=radical&hide_border=true)
