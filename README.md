@@ -60,32 +60,4 @@
 ---
 
 ### 🌐 **Find me on Discord**
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/)
-
----
-
-### 🎨 **Modern CSS with Neomorphic & shadcn Style**
-```css
-body {
-  background: #0f0f0f;
-  color: #fff;
-  font-family: 'Inter', sans-serif;
-}
-
-.card {
-  background: linear-gradient(145deg, #171717, #1d1d1d);
-  box-shadow: 3px 3px 10px #0c0c0c, -3px -3px 10px #242424;
-  border-radius: 10px;
-  padding: 15px;
-}
-
-.button {
-  background: #262626;
-  border-radius: 8px;
-  transition: all 0.3s ease-in-out;
-}
-
-.button:hover {
-  background: #333;
-  transform: scale(1.05);
-}
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/4tcQkDeEHC)
