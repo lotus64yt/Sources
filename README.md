@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• *Passe ton hall d'abord*  
 🔹 **Arduino** – Various IoT and security-related experiments.  
 🔹 **React & Web Dev** – Creator of [lmcgroup.xyz](https://lmcgroup.xyz).  
-🔹 **Minecraft Redstone** – Built an in-game computer using Redstone circuits.  
+🔹 **Minecraft Redstone** – Built an in-game calculator using Redstone circuits.  
 
 ---
 
